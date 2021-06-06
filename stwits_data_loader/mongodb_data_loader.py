@@ -7,23 +7,24 @@ from stwits_data_loader import DataLoader
 
 class MongoDBDataLoader(DataLoader):
 
-    def __init__(self, host, port, dbName, userName, password, token):
-        # Open and establish mongodb database connection
-        DataLoader.__init__(self, token)
-        self._dbName = dbName
+    def __init__(self, db_name, host: str = "127.0.0.1", port: int = 27017, username: str = "", password: str = "",
+                 *args, **kwargs):
+        # --- establish MongoDB database connection
+        super().__init__(*args, **kwargs)
+        self._dbName = db_name
         self._client = pymongo.MongoClient(host, port)
-        self._database = self._client[dbName]
+        self._database = self._client[db_name]
         self._collection = self._database["Messages"]
 
         index_name = "id"
         if index_name not in self._collection.index_information():
             self._collection.create_index(index_name, unique=True)
 
-        if userName != "" or password != "":
-            self._database.authenticate(userName, password)
+        if username != "" or password != "":
+            self._database.authenticate(username, password)
 
     def __del__(self):
-        # Close and release database resources
+        # --- close and release database resources
         self._client.close()
 
     def _dump_messages_to_database(self, json_result):
@@ -34,7 +35,6 @@ class MongoDBDataLoader(DataLoader):
         """
         collection = self._collection
         # --- record messages into database if not already there
-        at_least_one_msg_recorded = False
         for msg_dict in json_result["messages"]:
 
             # --- convert datetime string into datetime. This allows filtering documents by time operators in MongoDB
@@ -43,7 +43,6 @@ class MongoDBDataLoader(DataLoader):
             try:
                 collection.insert_one(msg_dict)
                 print('+', end='')
-                at_least_one_msg_recorded = True
             except pymongo.errors.DuplicateKeyError:  # the message already exists in the database
                 print('.', end='')
 
@@ -56,7 +55,6 @@ class MongoDBDataLoader(DataLoader):
                                           {'$set': {'querySymbolNames': query_symbol_name}})
             except Exception as e:
                 print("Insert Error: {}", e)
-        return at_least_one_msg_recorded
 
     def read_messages_from_database(self, symbol_id_or_name="", start_dt: datetime = datetime.datetime(2020, 1, 1),
                                     end_dt: datetime = datetime.datetime.now()):
@@ -91,20 +89,18 @@ class MongoDBDataLoader(DataLoader):
             }
         return collection.find(query)
 
-    def _get_min_max_msgs_ids_for_symbol(self, symbol_id_or_name):
+    def _get_max_msg_id_for_symbol(self, symbol_id_or_name):
 
         pipeline = [{'$match': {'querySymbolNames': symbol_id_or_name}},
-                    {'$group': {'_id': {}, 'min': {'$min': '$id'}, 'max': {'$max': '$id'}}}]
+                    {'$group': {'_id': {}, 'max': {'$max': '$id'}}}]
 
         cursor = self._collection.aggregate(pipeline)
         value = list(cursor)
         if not value:
-            min_id = self._min_msg_id
             max_id = self._min_msg_id
         else:
-            min_id = value[0]['min']
             max_id = value[0]['max']
-        return min_id, max_id
+        return max_id
 
     def get_min_max_msg_ids_for_all(self):
         pipeline = [{'$group': {'_id': {}, 'min': {'$min': '$id'}, 'max': {'$max': '$id'}}}]

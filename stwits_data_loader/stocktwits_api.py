@@ -1,4 +1,5 @@
 import requests
+from aiohttp import ClientSession
 
 
 class StockTwitsClient:
@@ -60,6 +61,19 @@ class StockTwitsClient:
             kwargs.update({"access_token": self.token})
         try:
             result = requests.get(url, params=kwargs)
+        except Exception as e:
+            print("HTTP Request fail {}\r\n{}".format(url, e))
+            return None
+
+        return result
+
+    def get_stream_async(self, symbol_name: str, session: ClientSession, **kwargs):
+        url = self.base + "streams/symbol/{}.json".format(symbol_name)
+
+        if self.token != "":
+            kwargs.update({"access_token": self.token})
+        try:
+            result = session.get(url, params=kwargs)
         except Exception as e:
             print("HTTP Request fail {}\r\n{}".format(url, e))
             return None

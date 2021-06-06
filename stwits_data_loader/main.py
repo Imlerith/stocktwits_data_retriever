@@ -41,22 +41,19 @@ def update_messages_from_stocktwits(data_provider):
 
     for symbol_info in symbol_infos:
         print("\r\nRetriving all messages for '{}'".format(symbol_info["title"]))
-        data_provider.retrieve_all_messages_from_stocktwits(symbol_info["symbol_name"], wait_counter=1)
+        # data_provider.retrieve_all_messages_from_stocktwits(symbol_info["symbol_name"], wait_counter=1)
+        data_provider.retrieve_all_messages_from_stocktwits_async(symbol_info["symbol_name"])
 
 
 def main():
     with open("stwits_data_loader/resources/access_token.txt", "r") as tokenFile:
         token = tokenFile.readline().rstrip()
-
-    db_name = "stocktwits_msgs_2"
-    data_provider = stwits_data_loader.MongoDBDataLoader("127.0.0.1", 27017, db_name, "", "", token)
-    min_message_id, max_message_id = data_provider.get_min_max_msg_ids_for_all()
-    data_provider.set_min_msg_id(200000000)
-    data_provider.set_max_total_id(500000000)
-
+    db_name = "stocktwits_msgs"
+    data_provider = stwits_data_loader.MongoDBDataLoader(db_name=db_name, token=token, min_msg_id=180000000,
+                                                         host="127.0.0.1", port=27017)
     update_messages_from_stocktwits(data_provider)
-    all_messages = data_provider.read_messages_from_database()
 
+    all_messages = data_provider.read_messages_from_database()
     data_cols = ['id', 'user_id', 'message', 'sentiment', 'timestamp']
     messages_df = pd.DataFrame(index=range(len(all_messages)), columns=data_cols)
     for i, msg in tqdm(enumerate(all_messages)):

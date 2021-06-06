@@ -5,8 +5,10 @@ import time
 import datetime
 import requests
 import io
+import asyncio
 
 import pandas as pd
+import aiohttp
 
 from stwits_data_loader import StockTwitsClient
 
@@ -14,10 +16,9 @@ from stwits_data_loader import StockTwitsClient
 class DataLoader(ABC):
     """The base class which implements functionality to retrieve messages from StockTwits"""
 
-    def __init__(self, token: str, min_msg_id: int = 200000000, max_total_id: int = 250000000):
+    def __init__(self, token: str, min_msg_id: int = 200000000):
         self._token = token
         self._min_msg_id = min_msg_id
-        self._max_total_id = max_total_id
         self._stocktwits_api_symbol_infos_url = "http://api.stocktwits.com/symbol-sync/symbols.csv"
         self._api = StockTwitsClient()
         self._api.login(self._token)
@@ -81,23 +82,68 @@ class DataLoader(ABC):
 
         return filtered_symbol_infos
 
+    def retrieve_all_messages_from_stocktwits_async(self, symbol_name: str):
+        asyncio.run(self.retrieve_all_messages_from_stocktwits_async_(symbol_name))
+
+    async def retrieve_all_messages_from_stocktwits_async_(self, symbol_name: str):
+        """ Retrieves all messages from StockTwits for the given symbol_name asynchronously
+        """
+        async with aiohttp.ClientSession() as session:
+            while True:
+                # --- get the minimum and maximum message ids from the database
+                max_symbol_id = self._get_max_msg_id_for_symbol(symbol_name)
+                print("\r\nRetrieving {0} with max parameter {1}".format(symbol_name, max_symbol_id))
+
+                # --- retrieve all messages for the given symbol
+                async with self._api.get_stream_async(symbol_name, session=session, since=max_symbol_id) as response:
+                    json_result = await response.json()
+                    result = self._dump_messages_to_database_helper(json_result, symbol_name)
+                    if result == dict():
+                        break
+                    # --- get dates' info and update counters
+                    dates = [(msg["created_at"], msg["id"]) for msg in result["messages"]]
+                    if len(dates) == 0:
+                        break
+                    min_message_date_time = min(dates)
+                    max_message_date_time = max(dates)
+                    print("\r\nGet {0} messages [{1:%Y-%m-%d %H:%M:%S} (msg ID:{2}) ~ {3:%Y-%m-%d %H:%M:%S} "
+                          "(msg ID:{4})]".format(symbol_name, min_message_date_time[0], min_message_date_time[1],
+                                                 max_message_date_time[0], max_message_date_time[1]))
+
+    def _dump_messages_to_database_helper(self, json_result, symbol_name):
+        """Retrieve messages with max parameter from StockTwits and write results into database
+           (if write_to_database = True)
+           The returned value is the raw JSON format from StockTwits
+        """
+        # --- check if the HTTP request response is valid
+        status = json_result["response"]["status"]
+
+        if status == 200:  # Web Service Api Query OK
+            json_result_ = json_result.copy()
+            for msg in json_result_["messages"]:
+                msg["querySymbolNames"] = [symbol_name]
+
+            # --- store messages to database
+            self._dump_messages_to_database(json_result_)
+            return json_result_
+        else:
+            return json_result
+
     def retrieve_all_messages_from_stocktwits(self, symbol_name: str, wait_counter: int = 2):
-        """ Retrieves all messages from StockTwits for the given symbol_name between min_message_id
-            and max_message_id (using 'since' and 'max' parameters of the API). Both the min and
-            max ids are incremented in a loop.
+        """ Retrieves all messages from StockTwits for the given symbol_name.
         """
         retrieve_counter = 0
         while True:
             # --- get the minimum and maximum message ids from the database
-            _, max_message_id = self._get_min_max_msgs_ids_for_symbol(symbol_name)
+            max_symbol_id = self._get_max_msg_id_for_symbol(symbol_name)
             print("\r\nTask[{0}] Retrieving {1} with max parameter {2}".format(retrieve_counter, symbol_name,
-                                                                               max_message_id))
+                                                                               max_symbol_id))
 
             # --- retrieve all messages for the given symbol and min/max ids
             retry_times = 0
             result = list()
             while retry_times < 5:
-                result, _ = self.retrieve_messages_from_stocktwits(symbol_name, max_message_id, True)
+                result = self.retrieve_messages_from_stocktwits(symbol_name, max_symbol_id, True)
 
                 if result == dict():
                     print("Retry times {0}, wait 5 sec for next retry".format(retry_times))
@@ -128,9 +174,9 @@ class DataLoader(ABC):
            The returned value is the raw JSON format from StockTwits
         """
         # --- read the latest messages from StockTwits Web Service
-        response = self._api.get_stream(symbol_name, since=max_symbol_id, max=self._max_total_id)
-        at_least_one_msg_recorded = False
+        response = self._api.get_stream(symbol_name, since=max_symbol_id)
         json_result = dict()
+
         # --- check if the HTTP request response is valid
         if response.ok:
             json_result = response.json()
@@ -142,14 +188,8 @@ class DataLoader(ABC):
 
                 # --- dump messages to database
                 if write_to_database:
-                    at_least_one_msg_recorded = self._dump_messages_to_database(json_result)
-        return json_result, at_least_one_msg_recorded
-
-    def set_min_msg_id(self, min_id):
-        self._min_msg_id = min_id
-
-    def set_max_total_id(self, max_id):
-        self._max_total_id = max_id
+                    self._dump_messages_to_database(json_result)
+        return json_result
 
     @staticmethod
     def read_symbol_infos_from_file():
@@ -168,7 +208,7 @@ class DataLoader(ABC):
         raise NotImplementedError()
 
     @abstractmethod
-    def _get_min_max_msgs_ids_for_symbol(self, symbol_id_or_name):
+    def _get_max_msg_id_for_symbol(self, symbol_id_or_name):
         raise NotImplementedError()
 
     @abstractmethod
