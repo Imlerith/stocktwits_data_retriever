@@ -1,0 +1,3495 @@
+[
+    {
+        "id": 11418,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTC.X",
+        "title": "Bitcoin BTC/USD"
+    },
+    {
+        "id": 11699,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LTC.X",
+        "title": "Litecoin"
+    },
+    {
+        "id": 13016,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ETH.X",
+        "title": "Ethereum"
+    },
+    {
+        "id": 13528,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XRP.X",
+        "title": "Ripple"
+    },
+    {
+        "id": 13648,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BAT.X",
+        "title": "Basic Attention Token"
+    },
+    {
+        "id": 13668,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DASH.X",
+        "title": "Dash"
+    },
+    {
+        "id": 13669,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XEM.X",
+        "title": "NEM"
+    },
+    {
+        "id": 13670,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ETC.X",
+        "title": "Ethereum Classic"
+    },
+    {
+        "id": 13671,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IOT.X",
+        "title": "IOTA"
+    },
+    {
+        "id": 13672,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XMR.X",
+        "title": "Monero"
+    },
+    {
+        "id": 13673,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EOS.X",
+        "title": "EOS"
+    },
+    {
+        "id": 13674,
+        "industry": null,
+        "sector": null,
+        "symbolName": "STRAT.X",
+        "title": "Stratis"
+    },
+    {
+        "id": 13675,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTS.X",
+        "title": "BitShares"
+    },
+    {
+        "id": 13676,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZEC.X",
+        "title": "Zcash"
+    },
+    {
+        "id": 13677,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCN.X",
+        "title": "Bytecoin"
+    },
+    {
+        "id": 13678,
+        "industry": null,
+        "sector": null,
+        "symbolName": "STEEM.X",
+        "title": "Steem"
+    },
+    {
+        "id": 13679,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WAVES.X",
+        "title": "Waves"
+    },
+    {
+        "id": 13680,
+        "industry": null,
+        "sector": null,
+        "symbolName": "USDT.X",
+        "title": "Tether"
+    },
+    {
+        "id": 13681,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GNT.X",
+        "title": "Golem"
+    },
+    {
+        "id": 13682,
+        "industry": null,
+        "sector": null,
+        "symbolName": "REP.X",
+        "title": "Augur"
+    },
+    {
+        "id": 13683,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GNO.X",
+        "title": "Gnosis"
+    },
+    {
+        "id": 13684,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SC.X",
+        "title": "Siacoin"
+    },
+    {
+        "id": 13685,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ICN.X",
+        "title": "Iconomi"
+    },
+    {
+        "id": 13686,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DOGE.X",
+        "title": "Dogecoin"
+    },
+    {
+        "id": 13687,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GBYTE.X",
+        "title": "Byteball"
+    },
+    {
+        "id": 13688,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LSK.X",
+        "title": "Lisk"
+    },
+    {
+        "id": 13689,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XLM.X",
+        "title": "Stellar Lumens"
+    },
+    {
+        "id": 13690,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DCR.X",
+        "title": "Decred"
+    },
+    {
+        "id": 13691,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FCT.X",
+        "title": "Factom"
+    },
+    {
+        "id": 13692,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MAID.X",
+        "title": "MaidSafeCoin"
+    },
+    {
+        "id": 13693,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DGD.X",
+        "title": "DigixDAO"
+    },
+    {
+        "id": 13694,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GAME.X",
+        "title": "GameCredits"
+    },
+    {
+        "id": 13695,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DGB.X",
+        "title": "DigiByte"
+    },
+    {
+        "id": 13696,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PIVX.X",
+        "title": "PIVX"
+    },
+    {
+        "id": 13697,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ARDR.X",
+        "title": "Ardor"
+    },
+    {
+        "id": 13698,
+        "industry": null,
+        "sector": null,
+        "symbolName": "KMD.X",
+        "title": "Komodo"
+    },
+    {
+        "id": 13699,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SNT.X",
+        "title": "Status"
+    },
+    {
+        "id": 13700,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NEO.X",
+        "title": "NEO"
+    },
+    {
+        "id": 13701,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NXT.X",
+        "title": "Nxt"
+    },
+    {
+        "id": 13702,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BNT.X",
+        "title": "Bancor"
+    },
+    {
+        "id": 13703,
+        "industry": null,
+        "sector": null,
+        "symbolName": "1ST.X",
+        "title": "FirstBlood"
+    },
+    {
+        "id": 13704,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SNGLS.X",
+        "title": "SingularDTV"
+    },
+    {
+        "id": 13705,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ANT.X",
+        "title": "Aragon"
+    },
+    {
+        "id": 13706,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FUN.X",
+        "title": "FunFair"
+    },
+    {
+        "id": 13707,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTCD.X",
+        "title": "BitcoinDark"
+    },
+    {
+        "id": 13708,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PPC.X",
+        "title": "Peercoin"
+    },
+    {
+        "id": 13709,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SYS.X",
+        "title": "SysCoin"
+    },
+    {
+        "id": 13710,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LEO.X",
+        "title": "LEOcoin"
+    },
+    {
+        "id": 13711,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LKK.X",
+        "title": "Lykke"
+    },
+    {
+        "id": 13712,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ARK.X",
+        "title": "Ark"
+    },
+    {
+        "id": 13713,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EDG.X",
+        "title": "Edgeless"
+    },
+    {
+        "id": 13714,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NXS.X",
+        "title": "Nexus"
+    },
+    {
+        "id": 13715,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EMC.X",
+        "title": "Emercoin"
+    },
+    {
+        "id": 13716,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UBQ.X",
+        "title": "Ubiq"
+    },
+    {
+        "id": 13717,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XVG.X",
+        "title": "Verge"
+    },
+    {
+        "id": 13718,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NMR.X",
+        "title": "Numeraire"
+    },
+    {
+        "id": 13719,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RDD.X",
+        "title": "ReddCoin"
+    },
+    {
+        "id": 13720,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NMC.X",
+        "title": "Namecoin"
+    },
+    {
+        "id": 13721,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MLN.X",
+        "title": "Melon"
+    },
+    {
+        "id": 13722,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MONA.X",
+        "title": "MonaCoin"
+    },
+    {
+        "id": 13723,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RLC.X",
+        "title": "iExec RLC"
+    },
+    {
+        "id": 13724,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DICE.X",
+        "title": "Etheroll"
+    },
+    {
+        "id": 13725,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WINGS.X",
+        "title": "Wings"
+    },
+    {
+        "id": 13726,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NLG.X",
+        "title": "Gulden"
+    },
+    {
+        "id": 13727,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XAUR.X",
+        "title": "Xaurum"
+    },
+    {
+        "id": 13728,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SJCX.X",
+        "title": "Storjcoin X"
+    },
+    {
+        "id": 13729,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CLOAK.X",
+        "title": "CloakCoin"
+    },
+    {
+        "id": 13730,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EDR.X",
+        "title": "E-Dinar Coin"
+    },
+    {
+        "id": 13731,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OMNI.X",
+        "title": "Omni"
+    },
+    {
+        "id": 13732,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LBC.X",
+        "title": "LBRY Credits"
+    },
+    {
+        "id": 13733,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GRS.X",
+        "title": "Groestlcoin"
+    },
+    {
+        "id": 13734,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XCP.X",
+        "title": "Counterparty"
+    },
+    {
+        "id": 13735,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VSL.X",
+        "title": "vSlice"
+    },
+    {
+        "id": 13736,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BAY.X",
+        "title": "BitBay"
+    },
+    {
+        "id": 13737,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POT.X",
+        "title": "PotCoin"
+    },
+    {
+        "id": 13738,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XZC.X",
+        "title": "ZCoin"
+    },
+    {
+        "id": 13739,
+        "industry": null,
+        "sector": null,
+        "symbolName": "YBC.X",
+        "title": "YbCoin"
+    },
+    {
+        "id": 13740,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BLOCK.X",
+        "title": "Blocknet"
+    },
+    {
+        "id": 13741,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OBITS.X",
+        "title": "OBITS"
+    },
+    {
+        "id": 13742,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BURST.X",
+        "title": "Burst"
+    },
+    {
+        "id": 13743,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VIA.X",
+        "title": "Viacoin"
+    },
+    {
+        "id": 13744,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BLK.X",
+        "title": "BlackCoin"
+    },
+    {
+        "id": 13745,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MOON.X",
+        "title": "Mooncoin"
+    },
+    {
+        "id": 13746,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AMP.X",
+        "title": "Synereo"
+    },
+    {
+        "id": 13747,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SWT.X",
+        "title": "Swarm City"
+    },
+    {
+        "id": 13748,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SIB.X",
+        "title": "SIBCoin"
+    },
+    {
+        "id": 13749,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TKN.X",
+        "title": "TokenCard"
+    },
+    {
+        "id": 13750,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IOC.X",
+        "title": "I/O Coin"
+    },
+    {
+        "id": 13751,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VTC.X",
+        "title": "Vertcoin"
+    },
+    {
+        "id": 13752,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TRST.X",
+        "title": "WeTrust"
+    },
+    {
+        "id": 13753,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NVC.X",
+        "title": "Novacoin"
+    },
+    {
+        "id": 13754,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UNITY.X",
+        "title": "SuperNET"
+    },
+    {
+        "id": 13755,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XDN.X",
+        "title": "DigitalNote"
+    },
+    {
+        "id": 13756,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CRW.X",
+        "title": "Crown"
+    },
+    {
+        "id": 13757,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AGRS.X",
+        "title": "Agoras Tokens"
+    },
+    {
+        "id": 13758,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FAIR.X",
+        "title": "FairCoin"
+    },
+    {
+        "id": 13759,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NAV.X",
+        "title": "NAV Coin"
+    },
+    {
+        "id": 13760,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EAC.X",
+        "title": "EarthCoin"
+    },
+    {
+        "id": 13761,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCAP.X",
+        "title": "Blockchain Capital"
+    },
+    {
+        "id": 13762,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NEOS.X",
+        "title": "NeosCoin"
+    },
+    {
+        "id": 13763,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GRC.X",
+        "title": "GridCoin"
+    },
+    {
+        "id": 13764,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TIME.X",
+        "title": "Chronobank"
+    },
+    {
+        "id": 13765,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EXP.X",
+        "title": "Expanse"
+    },
+    {
+        "id": 13766,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BITCNY.X",
+        "title": "bitCNY"
+    },
+    {
+        "id": 13767,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GUP.X",
+        "title": "Matchpool"
+    },
+    {
+        "id": 13768,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SHIFT.X",
+        "title": "Shift"
+    },
+    {
+        "id": 13769,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RADS.X",
+        "title": "Radium"
+    },
+    {
+        "id": 13770,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NXC.X",
+        "title": "Nexium"
+    },
+    {
+        "id": 13771,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FTC.X",
+        "title": "Feathercoin"
+    },
+    {
+        "id": 13772,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VOX.X",
+        "title": "Voxels"
+    },
+    {
+        "id": 13773,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HEAT.X",
+        "title": "HEAT"
+    },
+    {
+        "id": 13774,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RBY.X",
+        "title": "Rubycoin"
+    },
+    {
+        "id": 13775,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QRK.X",
+        "title": "Quark"
+    },
+    {
+        "id": 13776,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ENRG.X",
+        "title": "Energycoin"
+    },
+    {
+        "id": 13777,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CLAM.X",
+        "title": "Clams"
+    },
+    {
+        "id": 13778,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MUE.X",
+        "title": "MonetaryUnit"
+    },
+    {
+        "id": 13779,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCY.X",
+        "title": "Bitcrystals"
+    },
+    {
+        "id": 13780,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XBY.X",
+        "title": "XtraBYtes"
+    },
+    {
+        "id": 13781,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ION.X",
+        "title": "ION"
+    },
+    {
+        "id": 13782,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SPR.X",
+        "title": "SpreadCoin"
+    },
+    {
+        "id": 13783,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XBC.X",
+        "title": "Bitcoin Plus"
+    },
+    {
+        "id": 13784,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CVC.X",
+        "title": "Civic Token"
+    },
+    {
+        "id": 13793,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MTL.X",
+        "title": "Metal"
+    },
+    {
+        "id": 13794,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SAFEX.X",
+        "title": "Safe Exchange Coin"
+    },
+    {
+        "id": 13795,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IFC.X",
+        "title": "Infinitecoin"
+    },
+    {
+        "id": 13799,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XTZ.X",
+        "title": "Tezos"
+    },
+    {
+        "id": 13800,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PAY.X",
+        "title": "TenX"
+    },
+    {
+        "id": 13801,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MGO.X",
+        "title": "MobileGO"
+    },
+    {
+        "id": 13802,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SNM.X",
+        "title": "SONM"
+    },
+    {
+        "id": 13803,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PLBT.X",
+        "title": "Polybius"
+    },
+    {
+        "id": 13804,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ENT.X",
+        "title": "Eternity"
+    },
+    {
+        "id": 13805,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SLOGN.X",
+        "title": "SLOGN"
+    },
+    {
+        "id": 13806,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TIX.X",
+        "title": "BlockTix"
+    },
+    {
+        "id": 13807,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DENT.X",
+        "title": "DENT"
+    },
+    {
+        "id": 13808,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RVT.X",
+        "title": "Rivetz"
+    },
+    {
+        "id": 13809,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XUC.X",
+        "title": "Exchange Union"
+    },
+    {
+        "id": 13810,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RCC.X",
+        "title": "Reality Clash"
+    },
+    {
+        "id": 13811,
+        "industry": null,
+        "sector": null,
+        "symbolName": "STU.X",
+        "title": "bitJob"
+    },
+    {
+        "id": 13822,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FLO.X",
+        "title": "FlorinCoin"
+    },
+    {
+        "id": 13823,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ANA.X",
+        "title": "Anacoin"
+    },
+    {
+        "id": 13825,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TNT.X",
+        "title": "Tierion Network"
+    },
+    {
+        "id": 13826,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VET.X",
+        "title": "Vechain"
+    },
+    {
+        "id": 13827,
+        "industry": null,
+        "sector": null,
+        "symbolName": "STX.X",
+        "title": "Stox Prediction Market"
+    },
+    {
+        "id": 13830,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCH.X",
+        "title": "Bitcoin Cash"
+    },
+    {
+        "id": 13839,
+        "industry": null,
+        "sector": null,
+        "symbolName": "STAR.X",
+        "title": "Starbase"
+    },
+    {
+        "id": 13851,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OMG.X",
+        "title": "OmiseGo"
+    },
+    {
+        "id": 13856,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MCO.X",
+        "title": "Monaco"
+    },
+    {
+        "id": 13863,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ETHOS.X",
+        "title": "Ethos BQX"
+    },
+    {
+        "id": 13865,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ADX.X",
+        "title": "AdEx"
+    },
+    {
+        "id": 13866,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QTUM.X",
+        "title": "QTUM"
+    },
+    {
+        "id": 13868,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GEO.X",
+        "title": "GeoCoin"
+    },
+    {
+        "id": 13870,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OK.X",
+        "title": "OKCash"
+    },
+    {
+        "id": 13873,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BNB.X",
+        "title": "Binance"
+    },
+    {
+        "id": 13874,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZRX.X",
+        "title": "0x"
+    },
+    {
+        "id": 13876,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ENG.X",
+        "title": "Enigma"
+    },
+    {
+        "id": 13884,
+        "industry": null,
+        "sector": null,
+        "symbolName": "THC.X",
+        "title": "The Hempcoin"
+    },
+    {
+        "id": 13887,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XMY.X",
+        "title": "MyriadCoin"
+    },
+    {
+        "id": 13888,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LGD.X",
+        "title": "Legends"
+    },
+    {
+        "id": 13895,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RISE.X",
+        "title": "RISE"
+    },
+    {
+        "id": 13897,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NLC2.X",
+        "title": "NoLimitCoin"
+    },
+    {
+        "id": 13906,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TRIG.X",
+        "title": "Trigger"
+    },
+    {
+        "id": 13911,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QWARK.X",
+        "title": "Qwark"
+    },
+    {
+        "id": 13917,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WTC.X",
+        "title": "Walton"
+    },
+    {
+        "id": 13918,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LRC.X",
+        "title": "Loopring"
+    },
+    {
+        "id": 13923,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IOP.X",
+        "title": "Internet of People"
+    },
+    {
+        "id": 13925,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DCT.X",
+        "title": "Decent"
+    },
+    {
+        "id": 13927,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTX.X",
+        "title": "Bitcore"
+    },
+    {
+        "id": 13929,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PTOY.X",
+        "title": "Patientory"
+    },
+    {
+        "id": 13940,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CPC.X",
+        "title": "Capricoin"
+    },
+    {
+        "id": 13941,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CFI.X",
+        "title": "Cofound.it"
+    },
+    {
+        "id": 13942,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MTH.X",
+        "title": "Monetha"
+    },
+    {
+        "id": 13945,
+        "industry": null,
+        "sector": null,
+        "symbolName": "START.X",
+        "title": "StartCoin"
+    },
+    {
+        "id": 13952,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PTC.X",
+        "title": "PesetaCoin"
+    },
+    {
+        "id": 13953,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MUSIC.X",
+        "title": "Musiccoin"
+    },
+    {
+        "id": 13959,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UNB.X",
+        "title": "UnbreakableCoin"
+    },
+    {
+        "id": 13962,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BMC.X",
+        "title": "Blackmoon Crypto"
+    },
+    {
+        "id": 13967,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GAS.X",
+        "title": "Gas"
+    },
+    {
+        "id": 13968,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DTB.X",
+        "title": "Databits"
+    },
+    {
+        "id": 13969,
+        "industry": null,
+        "sector": null,
+        "symbolName": "KIN.X",
+        "title": "Kin (Kik ICO)"
+    },
+    {
+        "id": 13979,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RIC.X",
+        "title": "Riecoin"
+    },
+    {
+        "id": 13982,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XWC.X",
+        "title": "WhiteCoin"
+    },
+    {
+        "id": 13989,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XPM.X",
+        "title": "PrimeCoin"
+    },
+    {
+        "id": 13990,
+        "industry": null,
+        "sector": null,
+        "symbolName": "KNC.X",
+        "title": "Kyber Network"
+    },
+    {
+        "id": 13993,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AEON.X",
+        "title": "AeonCoin"
+    },
+    {
+        "id": 13994,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SALT.X",
+        "title": "Salt Lending"
+    },
+    {
+        "id": 14032,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LINK.X",
+        "title": "ChainLink"
+    },
+    {
+        "id": 14039,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EMC2.X",
+        "title": "Einsteinium"
+    },
+    {
+        "id": 14040,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FIL.X",
+        "title": "Filecoin"
+    },
+    {
+        "id": 14045,
+        "industry": null,
+        "sector": null,
+        "symbolName": "COSS.X",
+        "title": "Coss"
+    },
+    {
+        "id": 14046,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCCOIN.X",
+        "title": "BitConnect"
+    },
+    {
+        "id": 14053,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SPICE.X",
+        "title": "SPiCE "
+    },
+    {
+        "id": 14054,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ADA.X",
+        "title": "Cardano"
+    },
+    {
+        "id": 14064,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SUB.X",
+        "title": "Substratum"
+    },
+    {
+        "id": 14070,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AST.X",
+        "title": "AirSwap"
+    },
+    {
+        "id": 14074,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ALIS.X",
+        "title": "ALISmedia"
+    },
+    {
+        "id": 14084,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ETP.X",
+        "title": "Metaverse"
+    },
+    {
+        "id": 14085,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZEN.X",
+        "title": "ZenCash"
+    },
+    {
+        "id": 14094,
+        "industry": null,
+        "sector": null,
+        "symbolName": "REQ.X",
+        "title": "Request Network"
+    },
+    {
+        "id": 14108,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HVN.X",
+        "title": "Hive "
+    },
+    {
+        "id": 14111,
+        "industry": null,
+        "sector": null,
+        "symbolName": "STORJ.X",
+        "title": "Storj"
+    },
+    {
+        "id": 14128,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ETN.X",
+        "title": "Electroneum"
+    },
+    {
+        "id": 14130,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POWR.X",
+        "title": "Power Ledger"
+    },
+    {
+        "id": 14132,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NOTE.X",
+        "title": "DNotes"
+    },
+    {
+        "id": 14133,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PART.X",
+        "title": "Particl"
+    },
+    {
+        "id": 14134,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PHX.X",
+        "title": "PhoenixCoin"
+    },
+    {
+        "id": 14140,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SLR.X",
+        "title": "SolarCoin"
+    },
+    {
+        "id": 14141,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GLD.X",
+        "title": "GoldCoin"
+    },
+    {
+        "id": 14142,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XVC.X",
+        "title": "Vcash"
+    },
+    {
+        "id": 14170,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTG.X",
+        "title": "Bitcoin Gold"
+    },
+    {
+        "id": 14174,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VIB.X",
+        "title": "Viberate"
+    },
+    {
+        "id": 14175,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BELA.X",
+        "title": "BelaCoin"
+    },
+    {
+        "id": 14178,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ARN.X",
+        "title": "Aeron"
+    },
+    {
+        "id": 14185,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ODN.X",
+        "title": "Obsidian"
+    },
+    {
+        "id": 14186,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QSP.X",
+        "title": "Quantstamp"
+    },
+    {
+        "id": 14187,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LUX.X",
+        "title": "LUXCoin"
+    },
+    {
+        "id": 14192,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MYST.X",
+        "title": "Mysterium"
+    },
+    {
+        "id": 14194,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DATA.X",
+        "title": "DATAcoin"
+    },
+    {
+        "id": 14195,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ABY.X",
+        "title": "ArtByte"
+    },
+    {
+        "id": 14196,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TRX.X",
+        "title": "Tronix"
+    },
+    {
+        "id": 14197,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FLDC.X",
+        "title": "FoldingCoin"
+    },
+    {
+        "id": 14198,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MANA.X",
+        "title": "Decentraland"
+    },
+    {
+        "id": 14199,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ENJ.X",
+        "title": "Enjin Coin"
+    },
+    {
+        "id": 14200,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EGC.X",
+        "title": "EverGreenCoin"
+    },
+    {
+        "id": 14201,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VERI.X",
+        "title": "Veritaseum"
+    },
+    {
+        "id": 14202,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CANN.X",
+        "title": "CannabisCoin"
+    },
+    {
+        "id": 14207,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HST.X",
+        "title": "Decision Token"
+    },
+    {
+        "id": 14209,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZCL.X",
+        "title": "ZClassic"
+    },
+    {
+        "id": 14212,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GCR.X",
+        "title": "Global Currency Reserve"
+    },
+    {
+        "id": 14214,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RUP.X",
+        "title": "Rupee"
+    },
+    {
+        "id": 14215,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POE.X",
+        "title": "Po.et"
+    },
+    {
+        "id": 14216,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MOD.X",
+        "title": "Modum"
+    },
+    {
+        "id": 14218,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AION.X",
+        "title": "Aion"
+    },
+    {
+        "id": 14219,
+        "industry": null,
+        "sector": null,
+        "symbolName": "COVAL.X",
+        "title": "Coval"
+    },
+    {
+        "id": 14220,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SNC.X",
+        "title": "SunContract"
+    },
+    {
+        "id": 14221,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NANO.X",
+        "title": "NANO"
+    },
+    {
+        "id": 14222,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CND.X",
+        "title": "Cindicator"
+    },
+    {
+        "id": 14223,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LEND.X",
+        "title": "EthLend"
+    },
+    {
+        "id": 14224,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ICX.X",
+        "title": "ICON Project"
+    },
+    {
+        "id": 14227,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DRGN.X",
+        "title": "Dragonchain"
+    },
+    {
+        "id": 14228,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QASH.X",
+        "title": "Quoine Liquid"
+    },
+    {
+        "id": 14230,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POSW.X",
+        "title": "PoSWallet"
+    },
+    {
+        "id": 14233,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BITB.X",
+        "title": "BitBean"
+    },
+    {
+        "id": 14234,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RDN.X",
+        "title": "Raiden Network"
+    },
+    {
+        "id": 14235,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GVT.X",
+        "title": "Genesis Vision"
+    },
+    {
+        "id": 14236,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HTML.X",
+        "title": "HTML Coin"
+    },
+    {
+        "id": 14237,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ECA.X",
+        "title": "Electra"
+    },
+    {
+        "id": 14238,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NYC.X",
+        "title": "NewYorkCoin"
+    },
+    {
+        "id": 14240,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DIM.X",
+        "title": "DIMCOIN"
+    },
+    {
+        "id": 14242,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DCN.X",
+        "title": "Dentacoin"
+    },
+    {
+        "id": 14244,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AMB.X",
+        "title": "Ambrosus"
+    },
+    {
+        "id": 14247,
+        "industry": null,
+        "sector": null,
+        "symbolName": "COB.X",
+        "title": "Cobinhood"
+    },
+    {
+        "id": 14250,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EMB.X",
+        "title": "EmberCoin"
+    },
+    {
+        "id": 14252,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XMG.X",
+        "title": "Coin Magi"
+    },
+    {
+        "id": 14253,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XSPEC.X",
+        "title": "Spectre"
+    },
+    {
+        "id": 14254,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PAC.X",
+        "title": "PacCoin"
+    },
+    {
+        "id": 14255,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NGC.X",
+        "title": "NagaCoin"
+    },
+    {
+        "id": 14256,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HMQ.X",
+        "title": "Humaniq"
+    },
+    {
+        "id": 14257,
+        "industry": null,
+        "sector": null,
+        "symbolName": "STORM.X",
+        "title": "STORM"
+    },
+    {
+        "id": 14258,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OST.X",
+        "title": "Simple Token"
+    },
+    {
+        "id": 14259,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EVX.X",
+        "title": "Everex"
+    },
+    {
+        "id": 14260,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HMP.X",
+        "title": "HempCoin"
+    },
+    {
+        "id": 14261,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCPT.X",
+        "title": "BlockMason Credit Protocol "
+    },
+    {
+        "id": 14262,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WABI.X",
+        "title": "WaBi"
+    },
+    {
+        "id": 14263,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UTK.X",
+        "title": "Utrust"
+    },
+    {
+        "id": 14264,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GCN.X",
+        "title": "GCoin"
+    },
+    {
+        "id": 14266,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UKG.X",
+        "title": "Unikoingold"
+    },
+    {
+        "id": 14267,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ACO.X",
+        "title": "AriseCoin "
+    },
+    {
+        "id": 14268,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OAX.X",
+        "title": "OpenANX"
+    },
+    {
+        "id": 14269,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NEBL.X",
+        "title": "Neblio"
+    },
+    {
+        "id": 14270,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DOPE.X",
+        "title": "DopeCoin"
+    },
+    {
+        "id": 14272,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CDT.X",
+        "title": "CoinDash"
+    },
+    {
+        "id": 14273,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CURE.X",
+        "title": "Curecoin"
+    },
+    {
+        "id": 14274,
+        "industry": null,
+        "sector": null,
+        "symbolName": "METRIX.X",
+        "title": "Metrix"
+    },
+    {
+        "id": 14278,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FUEL.X",
+        "title": "Etherparty"
+    },
+    {
+        "id": 14279,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ELIX.X",
+        "title": "Elixir"
+    },
+    {
+        "id": 14280,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NULS.X",
+        "title": "Nuls"
+    },
+    {
+        "id": 14282,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DBC.X",
+        "title": "DeepBrain Chain"
+    },
+    {
+        "id": 14284,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PRL.X",
+        "title": "Oyster Pearl"
+    },
+    {
+        "id": 14286,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BRD.X",
+        "title": "Bread"
+    },
+    {
+        "id": 14288,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PPT.X",
+        "title": "Populous"
+    },
+    {
+        "id": 14289,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CRED.X",
+        "title": "Verify"
+    },
+    {
+        "id": 14290,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ELF.X",
+        "title": "aelf"
+    },
+    {
+        "id": 14291,
+        "industry": null,
+        "sector": null,
+        "symbolName": "KCS.X",
+        "title": "KuCoin Shares"
+    },
+    {
+        "id": 14292,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DNT.X",
+        "title": "district0x"
+    },
+    {
+        "id": 14294,
+        "industry": null,
+        "sector": null,
+        "symbolName": "INFX.X",
+        "title": "Influxcoin"
+    },
+    {
+        "id": 14295,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XP.X",
+        "title": "Experience Points"
+    },
+    {
+        "id": 14296,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TNB.X",
+        "title": "Time New Bank"
+    },
+    {
+        "id": 14297,
+        "industry": null,
+        "sector": null,
+        "symbolName": "COLX.X",
+        "title": "ColossusCoinXT"
+    },
+    {
+        "id": 14298,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CMPCO.X",
+        "title": "CampusCoin"
+    },
+    {
+        "id": 14299,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UFR.X",
+        "title": "Upfiring"
+    },
+    {
+        "id": 14300,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EBTC.X",
+        "title": "eBitcoin"
+    },
+    {
+        "id": 14301,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SUMO.X",
+        "title": "Sumokoin"
+    },
+    {
+        "id": 14302,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WAX.X",
+        "title": "WAX"
+    },
+    {
+        "id": 14303,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GMT.X",
+        "title": "Mercury Protocol"
+    },
+    {
+        "id": 14304,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCO.X",
+        "title": "BridgeCoin"
+    },
+    {
+        "id": 14305,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MINT.X",
+        "title": "Mintcoin"
+    },
+    {
+        "id": 14306,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ADT.X",
+        "title": "adToken"
+    },
+    {
+        "id": 14307,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TKS.X",
+        "title": "Tokes"
+    },
+    {
+        "id": 14308,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HYP.X",
+        "title": "HyperStake"
+    },
+    {
+        "id": 14310,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LUN.X",
+        "title": "Lunyr"
+    },
+    {
+        "id": 14311,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EBST.X",
+        "title": "eBoost"
+    },
+    {
+        "id": 14312,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PROC.X",
+        "title": "ProCurrency"
+    },
+    {
+        "id": 14313,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NOBL.X",
+        "title": "NobleCoin"
+    },
+    {
+        "id": 14314,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DFS.X",
+        "title": "DFSCoin"
+    },
+    {
+        "id": 14315,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LIFE.X",
+        "title": "LIFE"
+    },
+    {
+        "id": 14316,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POLL.X",
+        "title": "ClearPoll"
+    },
+    {
+        "id": 14318,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RBT.X",
+        "title": "Rimbit"
+    },
+    {
+        "id": 14320,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SNOV.X",
+        "title": "Snovio"
+    },
+    {
+        "id": 14322,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LA.X",
+        "title": "LAToken"
+    },
+    {
+        "id": 14323,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VRC.X",
+        "title": "VeriCoin"
+    },
+    {
+        "id": 14324,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VRM.X",
+        "title": "VeriumReserve"
+    },
+    {
+        "id": 14325,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VIBE.X",
+        "title": "VIBE"
+    },
+    {
+        "id": 14327,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XEL.X",
+        "title": "Elastic"
+    },
+    {
+        "id": 14330,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DIVX.X",
+        "title": "Divi"
+    },
+    {
+        "id": 14331,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DLT.X",
+        "title": "Agrello"
+    },
+    {
+        "id": 14332,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XLC.X",
+        "title": "LeviarCoin"
+    },
+    {
+        "id": 14333,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DOT.X",
+        "title": "Dotcoin"
+    },
+    {
+        "id": 14334,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SRN.X",
+        "title": "SIRIN LABS Token"
+    },
+    {
+        "id": 14335,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GTO.X",
+        "title": "Gifto"
+    },
+    {
+        "id": 14336,
+        "industry": null,
+        "sector": null,
+        "symbolName": "APPC.X",
+        "title": "AppCoins"
+    },
+    {
+        "id": 14337,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DIME.X",
+        "title": "Dimecoin"
+    },
+    {
+        "id": 14339,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POP.X",
+        "title": "PopularCoin"
+    },
+    {
+        "id": 14341,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VEE.X",
+        "title": "BLOCKv"
+    },
+    {
+        "id": 14342,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PND.X",
+        "title": "Pandacoin"
+    },
+    {
+        "id": 14343,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NAS.X",
+        "title": "Nebulas"
+    },
+    {
+        "id": 14344,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WAND.X",
+        "title": "WandX"
+    },
+    {
+        "id": 14349,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PFR.X",
+        "title": "Payfair"
+    },
+    {
+        "id": 14353,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MDA.X",
+        "title": "Moeda Loyalty Points"
+    },
+    {
+        "id": 14359,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QAU.X",
+        "title": "Quantum"
+    },
+    {
+        "id": 14361,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ADST.X",
+        "title": "AdShares"
+    },
+    {
+        "id": 14364,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ECC.X",
+        "title": "ECC"
+    },
+    {
+        "id": 14365,
+        "industry": null,
+        "sector": null,
+        "symbolName": "INS.X",
+        "title": "INS Ecosystem"
+    },
+    {
+        "id": 14377,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TEL.X",
+        "title": "Telcoin"
+    },
+    {
+        "id": 14378,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MED.X",
+        "title": "MediBloc"
+    },
+    {
+        "id": 14379,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VOISE.X",
+        "title": "Voise"
+    },
+    {
+        "id": 14380,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SBD.X",
+        "title": "Steem Dollars"
+    },
+    {
+        "id": 14382,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTM.X",
+        "title": "Bitmark"
+    },
+    {
+        "id": 14387,
+        "industry": null,
+        "sector": null,
+        "symbolName": "KEY.X",
+        "title": "Selfkey"
+    },
+    {
+        "id": 14388,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ACT.X",
+        "title": "Achain"
+    },
+    {
+        "id": 14394,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PLR.X",
+        "title": "Pillar"
+    },
+    {
+        "id": 14395,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BUZZ.X",
+        "title": "BuzzCoin"
+    },
+    {
+        "id": 14396,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HSR.X",
+        "title": "Hshare"
+    },
+    {
+        "id": 14399,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IOST.X",
+        "title": "IOStoken"
+    },
+    {
+        "id": 14400,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EDO.X",
+        "title": "Eidoo"
+    },
+    {
+        "id": 14405,
+        "industry": null,
+        "sector": null,
+        "symbolName": "THETA.X",
+        "title": "Theta Token"
+    },
+    {
+        "id": 14406,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HUSH.X",
+        "title": "Hush"
+    },
+    {
+        "id": 14407,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PKB.X",
+        "title": "ParkByte"
+    },
+    {
+        "id": 14408,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TNC.X",
+        "title": "Trinity Network Credit"
+    },
+    {
+        "id": 14409,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CMT.X",
+        "title": "CyberMiles"
+    },
+    {
+        "id": 14410,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FLASH.X",
+        "title": "Flash"
+    },
+    {
+        "id": 14411,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HGT.X",
+        "title": "HelloGold"
+    },
+    {
+        "id": 14414,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PBL.X",
+        "title": "Publica"
+    },
+    {
+        "id": 14416,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IGNIS.X",
+        "title": "Ignis"
+    },
+    {
+        "id": 14419,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IDH.X",
+        "title": "indaHash"
+    },
+    {
+        "id": 14420,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AGI.X",
+        "title": "SingularityNET"
+    },
+    {
+        "id": 14421,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OCN.X",
+        "title": "Odyssey"
+    },
+    {
+        "id": 14422,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BRK.X",
+        "title": "Breakout"
+    },
+    {
+        "id": 14424,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CV.X",
+        "title": "carVertical"
+    },
+    {
+        "id": 14425,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AE.X",
+        "title": "Aeternity"
+    },
+    {
+        "id": 14429,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ING.X",
+        "title": "IUNGO"
+    },
+    {
+        "id": 14430,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DAY.X",
+        "title": "Chronologic"
+    },
+    {
+        "id": 14432,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BLZ.X",
+        "title": "Bluzelle"
+    },
+    {
+        "id": 14434,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GOLOS.X",
+        "title": "Golos"
+    },
+    {
+        "id": 14436,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HDG.X",
+        "title": "Hedge"
+    },
+    {
+        "id": 14437,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SEQ.X",
+        "title": "Sequence"
+    },
+    {
+        "id": 14438,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DYN.X",
+        "title": "Dynamic"
+    },
+    {
+        "id": 14448,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PDC.X",
+        "title": "Project Decorum"
+    },
+    {
+        "id": 14451,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ITC.X",
+        "title": "IoT Chain"
+    },
+    {
+        "id": 14453,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZIL.X",
+        "title": "Zilliqa"
+    },
+    {
+        "id": 14454,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TRF.X",
+        "title": "Travelflex"
+    },
+    {
+        "id": 14456,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POLY.X",
+        "title": "Polymath"
+    },
+    {
+        "id": 14459,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LMC.X",
+        "title": "LoMoCoin"
+    },
+    {
+        "id": 14460,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HPB.X",
+        "title": "High Performance Blockchain"
+    },
+    {
+        "id": 14461,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTCZ.X",
+        "title": "BitcoinZ"
+    },
+    {
+        "id": 14463,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LCC.X",
+        "title": "Litecoin Cash"
+    },
+    {
+        "id": 14473,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SLS.X",
+        "title": "SaluS"
+    },
+    {
+        "id": 14476,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MOBI.X",
+        "title": "Mobius"
+    },
+    {
+        "id": 14477,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DNR.X",
+        "title": "Denarius"
+    },
+    {
+        "id": 14478,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TX.X",
+        "title": "TransferCoin"
+    },
+    {
+        "id": 14479,
+        "industry": null,
+        "sector": null,
+        "symbolName": "POA.X",
+        "title": "POA Network"
+    },
+    {
+        "id": 14480,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CAPP.X",
+        "title": "Cappasity"
+    },
+    {
+        "id": 14481,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NCASH.X",
+        "title": "Nucleus Vision"
+    },
+    {
+        "id": 14482,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTCP.X",
+        "title": "Bitcoin Private"
+    },
+    {
+        "id": 14495,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GAT.X",
+        "title": "Gatcoin"
+    },
+    {
+        "id": 14499,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LION.X",
+        "title": "Lion Coin"
+    },
+    {
+        "id": 14500,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ONT.X",
+        "title": "Ontology"
+    },
+    {
+        "id": 14502,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CAT.X",
+        "title": "BlockCAT"
+    },
+    {
+        "id": 14506,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FSN.X",
+        "title": "Fusion"
+    },
+    {
+        "id": 14507,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TKY.X",
+        "title": "THEKEY"
+    },
+    {
+        "id": 14510,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ACAT.X",
+        "title": "Alphacat"
+    },
+    {
+        "id": 14514,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DTA.X",
+        "title": "DATA"
+    },
+    {
+        "id": 14520,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BPT.X",
+        "title": "Blockport"
+    },
+    {
+        "id": 14526,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QLC.X",
+        "title": "QLINK"
+    },
+    {
+        "id": 14531,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ELA.X",
+        "title": "Elastos"
+    },
+    {
+        "id": 14532,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WAN.X",
+        "title": "Wanchain"
+    },
+    {
+        "id": 14535,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BITG.X",
+        "title": "Bitcoin Green"
+    },
+    {
+        "id": 14539,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SHIP.X",
+        "title": "ShipChain"
+    },
+    {
+        "id": 14541,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BAX.X",
+        "title": "BABB"
+    },
+    {
+        "id": 14546,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MAN.X",
+        "title": "Matrix AI Network"
+    },
+    {
+        "id": 14551,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UP.X",
+        "title": "UpToken"
+    },
+    {
+        "id": 14553,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TON.X",
+        "title": "Telegram "
+    },
+    {
+        "id": 14559,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PHR.X",
+        "title": "PHORE"
+    },
+    {
+        "id": 14562,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PARETO.X",
+        "title": "Pareto Network"
+    },
+    {
+        "id": 14573,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ELEC.X",
+        "title": "Electrify.Asia"
+    },
+    {
+        "id": 14576,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PIRL.X",
+        "title": "Pirl"
+    },
+    {
+        "id": 14578,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TPAY.X",
+        "title": "TokenPay"
+    },
+    {
+        "id": 14579,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SLT.X",
+        "title": "Smartlands"
+    },
+    {
+        "id": 14580,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BBN.X",
+        "title": "Banyan Network"
+    },
+    {
+        "id": 14590,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EVN.X",
+        "title": "Envion"
+    },
+    {
+        "id": 14591,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SWH.X",
+        "title": "Switcheo"
+    },
+    {
+        "id": 14594,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TOMO.X",
+        "title": "TomoChain"
+    },
+    {
+        "id": 14595,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UUU.X",
+        "title": "U Network"
+    },
+    {
+        "id": 14602,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BFT.X",
+        "title": "BnkToTheFuture"
+    },
+    {
+        "id": 14603,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CPX.X",
+        "title": "Apex "
+    },
+    {
+        "id": 14606,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZCO.X",
+        "title": "Zebi"
+    },
+    {
+        "id": 14608,
+        "industry": null,
+        "sector": null,
+        "symbolName": "LOOM.X",
+        "title": "Loom Network"
+    },
+    {
+        "id": 14609,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CTXC.X",
+        "title": "Cortex"
+    },
+    {
+        "id": 14612,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WPR.X",
+        "title": "WePower"
+    },
+    {
+        "id": 14613,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IHT.X",
+        "title": "IHT Real Estate Protocol"
+    },
+    {
+        "id": 14615,
+        "industry": null,
+        "sector": null,
+        "symbolName": "APH.X",
+        "title": "Aphelion"
+    },
+    {
+        "id": 14626,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DAN.X",
+        "title": "Daneel"
+    },
+    {
+        "id": 14627,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MUSE.X",
+        "title": "MUSE"
+    },
+    {
+        "id": 14628,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MNX.X",
+        "title": "MinexCoin"
+    },
+    {
+        "id": 14629,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RVN.X",
+        "title": "Ravencoin"
+    },
+    {
+        "id": 14630,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HEXX.X",
+        "title": "Hexx"
+    },
+    {
+        "id": 14633,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IPSX.X",
+        "title": "IP Exchange"
+    },
+    {
+        "id": 14636,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZZZ.X",
+        "title": "Unlisted"
+    },
+    {
+        "id": 14637,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NPXS.X",
+        "title": "Pundi X"
+    },
+    {
+        "id": 14651,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UBT.X",
+        "title": "Unibright"
+    },
+    {
+        "id": 14659,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MTC.X",
+        "title": "Docademic"
+    },
+    {
+        "id": 14662,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SKY.X",
+        "title": "Skycoin"
+    },
+    {
+        "id": 14665,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BANCA.X",
+        "title": "Banca"
+    },
+    {
+        "id": 14672,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PAL.X",
+        "title": "PolicyPal Network"
+    },
+    {
+        "id": 14675,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PCN.X",
+        "title": "PeepCoin"
+    },
+    {
+        "id": 14686,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MSP.X",
+        "title": "Mothership"
+    },
+    {
+        "id": 14687,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BIS.X",
+        "title": "Bismuth"
+    },
+    {
+        "id": 14690,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QKC.X",
+        "title": "QuarkChain"
+    },
+    {
+        "id": 14737,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HYDRO.X",
+        "title": "Hydrogen"
+    },
+    {
+        "id": 14765,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XYO.X",
+        "title": "XYO Network"
+    },
+    {
+        "id": 14777,
+        "industry": null,
+        "sector": null,
+        "symbolName": "NEC.X",
+        "title": "Nectar"
+    },
+    {
+        "id": 14786,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MFT.X",
+        "title": "Mainframe"
+    },
+    {
+        "id": 14788,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HXX.X",
+        "title": "Hexx"
+    },
+    {
+        "id": 14796,
+        "industry": null,
+        "sector": null,
+        "symbolName": "EXRN.X",
+        "title": "EXRNchain"
+    },
+    {
+        "id": 14799,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RFR.X",
+        "title": "Refereum"
+    },
+    {
+        "id": 14800,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HOT.X",
+        "title": "Holo"
+    },
+    {
+        "id": 14801,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DIG.X",
+        "title": "Dignity"
+    },
+    {
+        "id": 14803,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DOCK.X",
+        "title": "Dock"
+    },
+    {
+        "id": 14815,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ARY.X",
+        "title": "Block Array"
+    },
+    {
+        "id": 14823,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FNTC.X",
+        "title": "Fantasy Sports Coin"
+    },
+    {
+        "id": 14826,
+        "industry": null,
+        "sector": null,
+        "symbolName": "WAB.X",
+        "title": "WABnetwork"
+    },
+    {
+        "id": 14832,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AIR.X",
+        "title": "AirToken"
+    },
+    {
+        "id": 14847,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CET.X",
+        "title": "CoinEx Token"
+    },
+    {
+        "id": 14864,
+        "industry": null,
+        "sector": null,
+        "symbolName": "UBC.X",
+        "title": "UBCOIN "
+    },
+    {
+        "id": 14956,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XLR.X",
+        "title": "Solaris"
+    },
+    {
+        "id": 14957,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ONION.X",
+        "title": "DeepOnion"
+    },
+    {
+        "id": 14960,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZPT.X",
+        "title": "Zeepin"
+    },
+    {
+        "id": 14970,
+        "industry": null,
+        "sector": null,
+        "symbolName": "IMT.X",
+        "title": "Moneytoken"
+    },
+    {
+        "id": 14971,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CRPT.X",
+        "title": "Crypterium"
+    },
+    {
+        "id": 14988,
+        "industry": null,
+        "sector": null,
+        "symbolName": "DAPS.X",
+        "title": "DAPS"
+    },
+    {
+        "id": 14997,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GO.X",
+        "title": "GoChain"
+    },
+    {
+        "id": 15004,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GRFT.X",
+        "title": "Graft"
+    },
+    {
+        "id": 15007,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XHV.X",
+        "title": "Haven Protocol"
+    },
+    {
+        "id": 15012,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ZEL.X",
+        "title": "ZelCash"
+    },
+    {
+        "id": 15041,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XGS.X",
+        "title": "GenesisX"
+    },
+    {
+        "id": 15047,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BSV.X",
+        "title": "Bitcoin SV"
+    },
+    {
+        "id": 15111,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GRIN.X",
+        "title": "Grin"
+    },
+    {
+        "id": 15113,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BTT.X",
+        "title": "BitTorrent"
+    },
+    {
+        "id": 15127,
+        "industry": null,
+        "sector": null,
+        "symbolName": "VTHO.X",
+        "title": "VeThor Token"
+    },
+    {
+        "id": 15137,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PLA.X",
+        "title": "Plair"
+    },
+    {
+        "id": 15158,
+        "industry": null,
+        "sector": null,
+        "symbolName": "QNT.X",
+        "title": "Quant"
+    },
+    {
+        "id": 15206,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SOUL.X",
+        "title": "Phantasma Chain"
+    },
+    {
+        "id": 15222,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MITH.X",
+        "title": "Mithril "
+    },
+    {
+        "id": 15223,
+        "industry": null,
+        "sector": null,
+        "symbolName": "XRC.X",
+        "title": "Bitcoin Rhodium"
+    },
+    {
+        "id": 15224,
+        "industry": null,
+        "sector": null,
+        "symbolName": "RCN.X",
+        "title": "Ripio Credit Network"
+    },
+    {
+        "id": 15225,
+        "industry": null,
+        "sector": null,
+        "symbolName": "HC.X",
+        "title": "HyperCash"
+    },
+    {
+        "id": 15233,
+        "industry": null,
+        "sector": null,
+        "symbolName": "MATIC.X",
+        "title": "Matic Network"
+    },
+    {
+        "id": 15236,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BLT.X",
+        "title": "Bloom"
+    },
+    {
+        "id": 15242,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SFX.X",
+        "title": "Safex Cash"
+    },
+    {
+        "id": 15243,
+        "industry": null,
+        "sector": null,
+        "symbolName": "SFT.X",
+        "title": "SFT "
+    },
+    {
+        "id": 15251,
+        "industry": null,
+        "sector": null,
+        "symbolName": "COVA.X",
+        "title": "Covalent"
+    },
+    {
+        "id": 15255,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ATOM.X",
+        "title": "Cosmos"
+    },
+    {
+        "id": 15263,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TFUEL.X",
+        "title": "Theta Fuel"
+    },
+    {
+        "id": 15265,
+        "industry": null,
+        "sector": null,
+        "symbolName": "FTM.X",
+        "title": "FANTOM"
+    },
+    {
+        "id": 15266,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TFUEL.X",
+        "title": "Theta Fuel"
+    },
+    {
+        "id": 15267,
+        "industry": null,
+        "sector": null,
+        "symbolName": "PHB.X",
+        "title": "Red Pulse Phoenix "
+    },
+    {
+        "id": 15275,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BCD.X",
+        "title": "Bitcoin Diamond"
+    },
+    {
+        "id": 15277,
+        "industry": null,
+        "sector": null,
+        "symbolName": "REN.X",
+        "title": "Ren"
+    },
+    {
+        "id": 15279,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ONE.X",
+        "title": "Harmony"
+    },
+    {
+        "id": 15293,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CELR.X",
+        "title": "Celer Network"
+    },
+    {
+        "id": 15295,
+        "industry": null,
+        "sector": null,
+        "symbolName": "GXS.X",
+        "title": "GXChain"
+    },
+    {
+        "id": 15296,
+        "industry": null,
+        "sector": null,
+        "symbolName": "YOYO.X",
+        "title": "YOYOW"
+    },
+    {
+        "id": 15297,
+        "industry": null,
+        "sector": null,
+        "symbolName": "BOMB.X",
+        "title": "BOMB"
+    },
+    {
+        "id": 15299,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ARB.X",
+        "title": "ARBITRAGE "
+    },
+    {
+        "id": 15320,
+        "industry": null,
+        "sector": null,
+        "symbolName": "OCE.X",
+        "title": "OceanEx Token"
+    },
+    {
+        "id": 15321,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ALGO.X",
+        "title": "Algorand"
+    },
+    {
+        "id": 15322,
+        "industry": null,
+        "sector": null,
+        "symbolName": "ERD.X",
+        "title": "Elrond Network"
+    },
+    {
+        "id": 15345,
+        "industry": null,
+        "sector": null,
+        "symbolName": "TCAP.X",
+        "title": "CRYPTEX TOTAL MARKET CAPITALIZATION"
+    },
+    {
+        "id": 15361,
+        "industry": null,
+        "sector": null,
+        "symbolName": "AMB.X",
+        "title": "Ambrosus"
+    },
+    {
+        "id": 15385,
+        "industry": null,
+        "sector": null,
+        "symbolName": "CHZ.X",
+        "title": "Chiliz"
+    }
+]
