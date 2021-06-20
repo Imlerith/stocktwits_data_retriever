@@ -89,7 +89,7 @@ class MongoDBDataLoader(DataLoader):
             }
         return collection.find(query)
 
-    def _get_max_msg_id_for_symbol(self, symbol_id_or_name):
+    def get_max_msg_id_for_symbol(self, symbol_id_or_name):
 
         pipeline = [{'$match': {'querySymbolNames': symbol_id_or_name}},
                     {'$group': {'_id': {}, 'max': {'$max': '$id'}}}]

@@ -17,5 +17,13 @@ async def retrieve_async(symbol_name):
 asyncio.run(retrieve_async("BTC.X"))
 
 
+async def retrieve_async_2(ticker):
+    async with aiohttp.ClientSession() as session:
+        link_crypto = f'https://finance.yahoo.com/quote/{ticker}?p={ticker}'
+        async with session.get(link_crypto) as resp:
+            result = await resp.text()
+            print(result)
+
+asyncio.run(retrieve_async_2("BTC-USD"))
 
 

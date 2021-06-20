@@ -1,0 +1,386 @@
+[
+    {
+        "id": 11418,
+        "industry": null,
+        "mkt_cap": 671441000000.0,
+        "sector": null,
+        "symbol_name": "BTC.X",
+        "title": "Bitcoin BTC/USD"
+    },
+    {
+        "id": 11699,
+        "industry": null,
+        "mkt_cap": 10898000000.0,
+        "sector": null,
+        "symbol_name": "LTC.X",
+        "title": "Litecoin"
+    },
+    {
+        "id": 13016,
+        "industry": null,
+        "mkt_cap": 281807000000.0,
+        "sector": null,
+        "symbol_name": "ETH.X",
+        "title": "Ethereum"
+    },
+    {
+        "id": 13528,
+        "industry": null,
+        "mkt_cap": 38864000000.0,
+        "sector": null,
+        "symbol_name": "XRP.X",
+        "title": "Ripple"
+    },
+    {
+        "id": 13668,
+        "industry": null,
+        "mkt_cap": 1667000000.0,
+        "sector": null,
+        "symbol_name": "DASH.X",
+        "title": "Dash"
+    },
+    {
+        "id": 13669,
+        "industry": null,
+        "mkt_cap": 1436000000.0,
+        "sector": null,
+        "symbol_name": "XEM.X",
+        "title": "NEM"
+    },
+    {
+        "id": 13670,
+        "industry": null,
+        "mkt_cap": 6536000000.0,
+        "sector": null,
+        "symbol_name": "ETC.X",
+        "title": "Ethereum Classic"
+    },
+    {
+        "id": 13672,
+        "industry": null,
+        "mkt_cap": 4468000000.0,
+        "sector": null,
+        "symbol_name": "XMR.X",
+        "title": "Monero"
+    },
+    {
+        "id": 13673,
+        "industry": null,
+        "mkt_cap": 4645000000.0,
+        "sector": null,
+        "symbol_name": "EOS.X",
+        "title": "EOS"
+    },
+    {
+        "id": 13676,
+        "industry": null,
+        "mkt_cap": 1531000000.0,
+        "sector": null,
+        "symbol_name": "ZEC.X",
+        "title": "Zcash"
+    },
+    {
+        "id": 13679,
+        "industry": null,
+        "mkt_cap": 1535000000.0,
+        "sector": null,
+        "symbol_name": "WAVES.X",
+        "title": "Waves"
+    },
+    {
+        "id": 13680,
+        "industry": null,
+        "mkt_cap": 62623000000.0,
+        "sector": null,
+        "symbol_name": "USDT.X",
+        "title": "Tether"
+    },
+    {
+        "id": 13686,
+        "industry": null,
+        "mkt_cap": 41081000000.0,
+        "sector": null,
+        "symbol_name": "DOGE.X",
+        "title": "Dogecoin"
+    },
+    {
+        "id": 13689,
+        "industry": null,
+        "mkt_cap": 7796000000.0,
+        "sector": null,
+        "symbol_name": "XLM.X",
+        "title": "Stellar Lumens"
+    },
+    {
+        "id": 13690,
+        "industry": null,
+        "mkt_cap": 1716000000.0,
+        "sector": null,
+        "symbol_name": "DCR.X",
+        "title": "Decred"
+    },
+    {
+        "id": 13700,
+        "industry": null,
+        "mkt_cap": 3296000000.0,
+        "sector": null,
+        "symbol_name": "NEO.X",
+        "title": "NEO"
+    },
+    {
+        "id": 13799,
+        "industry": null,
+        "mkt_cap": 2698000000.0,
+        "sector": null,
+        "symbol_name": "XTZ.X",
+        "title": "Tezos"
+    },
+    {
+        "id": 13826,
+        "industry": null,
+        "mkt_cap": 6856000000.0,
+        "sector": null,
+        "symbol_name": "VET.X",
+        "title": "Vechain"
+    },
+    {
+        "id": 13830,
+        "industry": null,
+        "mkt_cap": 10998000000.0,
+        "sector": null,
+        "symbol_name": "BCH.X",
+        "title": "Bitcoin Cash"
+    },
+    {
+        "id": 13873,
+        "industry": null,
+        "mkt_cap": 53332000000.0,
+        "sector": null,
+        "symbol_name": "BNB.X",
+        "title": "Binance"
+    },
+    {
+        "id": 14032,
+        "industry": null,
+        "mkt_cap": 9560000000.0,
+        "sector": null,
+        "symbol_name": "LINK.X",
+        "title": "ChainLink"
+    },
+    {
+        "id": 14040,
+        "industry": null,
+        "mkt_cap": 5537000000.0,
+        "sector": null,
+        "symbol_name": "FIL.X",
+        "title": "Filecoin"
+    },
+    {
+        "id": 14054,
+        "industry": null,
+        "mkt_cap": 47240000000.0,
+        "sector": null,
+        "symbol_name": "ADA.X",
+        "title": "Cardano"
+    },
+    {
+        "id": 14196,
+        "industry": null,
+        "mkt_cap": 4933000000.0,
+        "sector": null,
+        "symbol_name": "TRX.X",
+        "title": "Tron"
+    },
+    {
+        "id": 14198,
+        "industry": null,
+        "mkt_cap": 1062000000.0,
+        "sector": null,
+        "symbol_name": "MANA.X",
+        "title": "Decentraland"
+    },
+    {
+        "id": 14199,
+        "industry": null,
+        "mkt_cap": 1050000000.0,
+        "sector": null,
+        "symbol_name": "ENJ.X",
+        "title": "Enjin Coin"
+    },
+    {
+        "id": 14405,
+        "industry": null,
+        "mkt_cap": 7770000000.0,
+        "sector": null,
+        "symbol_name": "THETA.X",
+        "title": "Theta Token"
+    },
+    {
+        "id": 14453,
+        "industry": null,
+        "mkt_cap": 1165000000.0,
+        "sector": null,
+        "symbol_name": "ZIL.X",
+        "title": "Zilliqa"
+    },
+    {
+        "id": 15047,
+        "industry": null,
+        "mkt_cap": 3032000000.0,
+        "sector": null,
+        "symbol_name": "BSV.X",
+        "title": "Bitcoin SV"
+    },
+    {
+        "id": 15233,
+        "industry": null,
+        "mkt_cap": 8550000000.000001,
+        "sector": null,
+        "symbol_name": "MATIC.X",
+        "title": "Matic Network"
+    },
+    {
+        "id": 15263,
+        "industry": null,
+        "mkt_cap": 2239000000.0,
+        "sector": null,
+        "symbol_name": "TFUEL.X",
+        "title": "Theta Fuel"
+    },
+    {
+        "id": 15266,
+        "industry": null,
+        "mkt_cap": 2239000000.0,
+        "sector": null,
+        "symbol_name": "TFUEL.X",
+        "title": "Theta Fuel"
+    },
+    {
+        "id": 15321,
+        "industry": null,
+        "mkt_cap": 3049000000.0,
+        "sector": null,
+        "symbol_name": "ALGO.X",
+        "title": "Algorand"
+    },
+    {
+        "id": 15385,
+        "industry": null,
+        "mkt_cap": 1634000000.0,
+        "sector": null,
+        "symbol_name": "CHZ.X",
+        "title": "Chiliz"
+    },
+    {
+        "id": 15545,
+        "industry": null,
+        "mkt_cap": 1640000000.0,
+        "sector": null,
+        "symbol_name": "HBAR.X",
+        "title": "Hedera Hashgraph"
+    },
+    {
+        "id": 15604,
+        "industry": null,
+        "mkt_cap": 14605000000.0,
+        "sector": null,
+        "symbol_name": "HEX.X",
+        "title": "HEX "
+    },
+    {
+        "id": 15675,
+        "industry": null,
+        "mkt_cap": 2871000000.0,
+        "sector": null,
+        "symbol_name": "CRO.X",
+        "title": "Crypto.com Coin"
+    },
+    {
+        "id": 15708,
+        "industry": null,
+        "mkt_cap": 1594000000.0,
+        "sector": null,
+        "symbol_name": "COMP.X",
+        "title": "Compound"
+    },
+    {
+        "id": 15710,
+        "industry": null,
+        "mkt_cap": 2975000000.0,
+        "sector": null,
+        "symbol_name": "MKR.X",
+        "title": "Maker"
+    },
+    {
+        "id": 15800,
+        "industry": null,
+        "mkt_cap": 1353000000.0,
+        "sector": null,
+        "symbol_name": "YFI.X",
+        "title": "yearn.finance"
+    },
+    {
+        "id": 15899,
+        "industry": null,
+        "mkt_cap": 3429000000.0,
+        "sector": null,
+        "symbol_name": "KSM.X",
+        "title": "Kusama "
+    },
+    {
+        "id": 16495,
+        "industry": null,
+        "mkt_cap": 1058000000.0,
+        "sector": null,
+        "symbol_name": "SUSHI.X",
+        "title": "Sushi"
+    },
+    {
+        "id": 16607,
+        "industry": null,
+        "mkt_cap": 1660000000.0,
+        "sector": null,
+        "symbol_name": "CEL.X",
+        "title": "Celsius Network"
+    },
+    {
+        "id": 17143,
+        "industry": null,
+        "mkt_cap": 3669000000.0,
+        "sector": null,
+        "symbol_name": "AAVE.X",
+        "title": "AAVE"
+    },
+    {
+        "id": 17442,
+        "industry": null,
+        "mkt_cap": 1568000000.0,
+        "sector": null,
+        "symbol_name": "RUNE.X",
+        "title": "RUNE"
+    },
+    {
+        "id": 17453,
+        "industry": null,
+        "mkt_cap": 1411000000.0,
+        "sector": null,
+        "symbol_name": "EGLD.X",
+        "title": "Elrond Network"
+    },
+    {
+        "id": 17615,
+        "industry": null,
+        "mkt_cap": 2318000000.0,
+        "sector": null,
+        "symbol_name": "AVAX.X",
+        "title": "Avalanche"
+    },
+    {
+        "id": 18161,
+        "industry": null,
+        "mkt_cap": 2452000000.0,
+        "sector": null,
+        "symbol_name": "SHIB.X",
+        "title": "SHIBA INU"
+    }
+]
