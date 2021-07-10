@@ -1,5 +1,6 @@
 import os
 import sys
+from datetime import datetime as dt
 
 import pandas as pd
 from tqdm import tqdm
@@ -20,7 +21,7 @@ db_name = "stocktwits_msgs"
 data_provider = stwits_data_loader.MongoDBDataLoader(db_name=db_name, token=token, min_msg_id=180000000,
                                                      host="127.0.0.1", port=27017)
 
-all_messages = data_provider.read_messages_from_database()
+all_messages = data_provider.read_messages_from_database(start_dt=dt(2021, 1, 1), end_dt=dt(2021, 1, 30))
 data_cols = ['id', 'user_id', 'message', 'sentiment', 'timestamp']
 messages_df = pd.DataFrame(index=range(len(all_messages)), columns=data_cols)
 for i, msg in tqdm(enumerate(all_messages)):
@@ -35,6 +36,7 @@ for i, msg in tqdm(enumerate(all_messages)):
     except TypeError:
         continue
 
-messages_df = messages_df.dropna().reset_index(drop=True)
+del all_messages
+# messages_df = messages_df.dropna().reset_index(drop=True)
 messages_df.to_csv('messages_df.csv')
 
