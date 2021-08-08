@@ -131,3 +131,7 @@ dmypy.json
 # Custom
 .idea/
 .DS_Store
+*.csv
+*.txt
+*.hdf5
+*.txt

@@ -175,5 +175,4 @@ all_data_from_pg.to_csv(f"{data_path}all_messages_df_updated.csv", index=False)
 # first_day_from_pg = execute_pg_query(conn, query_type="select", pg_query=query_first_day, get_df=True)
 # new_messages_df = pd.concat([first_day_from_pg, new_messages_df], axis=0, ignore_index=True)\
 #                     .drop_duplicates(subset=['id'])
-# new_messages_df.to_csv(f"{data_path}new_messages_df.csv", index=False)
 
