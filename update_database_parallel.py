@@ -23,14 +23,15 @@ def msgs_load_worker(symbol_info, db_name, token):
 
 
 def main():
-    with open("stwits_data_loader/resources/access_token.txt", "r") as tokenFile:
-        token = tokenFile.readline().rstrip()
+    # with open("stwits_data_loader/resources/access_token.txt", "r") as tokenFile:
+    #     token = tokenFile.readline().rstrip()
+    token = ''
     db_name = "stocktwits_msgs"
     data_provider = stwits_data_loader.MongoDBDataLoader(db_name=db_name, token=token, min_msg_id=180000000,
                                                          host="127.0.0.1", port=27017)
     symbol_infos = data_provider.retrieve_symbol_infos_filtered_by_mkt_cap_async()
 
-    with futures.ProcessPoolExecutor(4) as executor:
+    with futures.ProcessPoolExecutor(2) as executor:
         results = list(executor.map(partial(msgs_load_worker, db_name=db_name, token=token), symbol_infos))
     results_all = list(results)
     print(sum(results_all))
