@@ -73,7 +73,7 @@ class IndexBuilder:
 
     def add_classfn_sentiment(self):
         if self._scores_by_day_na is None:
-            messages_df_na = self.messages_df[self.messages_df['sentiment'].isna()]
+            messages_df_na = self.messages_df[self.messages_df['sentiment'] == 999]
             all_messages_na = messages_df_na['message'].values
             all_indices_na = messages_df_na.index.values
             all_sequences_na_with_indices = [([self.word2idx.get(t) for t in msg if t in self.word2idx.keys()], label)
@@ -91,7 +91,7 @@ class IndexBuilder:
                                                         1, predictions_na_actual)
             self.messages_df.loc[indices_na_filtered, ['sentiment']] = predictions_na_actual
             self.messages_df = self.messages_df.replace({'sentiment': {0: -1}})
-            self.messages_df.dropna(subset=['sentiment'], inplace=True)
+            self.messages_df = self.messages_df[self.messages_df['sentiment'] != 999]
             self._scores_by_day_na = self.messages_df.loc[:, ['date', 'sentiment']] \
                 .groupby(by=['date'])['sentiment']\
                 .agg(num_pos=lambda x: sum([1 for y in x if y == 1]),

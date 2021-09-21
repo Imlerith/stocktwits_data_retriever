@@ -81,7 +81,7 @@ class DataProcessor:
         filtered_messages = messages_df['body'].apply(self._filter_messages).values
         messages_df['message'] = filtered_messages
         self.__messages_df_with_tokens = messages_df
-        messages_df = messages_df.dropna()
+        messages_df = messages_df[messages_df['sentiment'] != 999]
         messages_df = messages_df[messages_df['message'].astype(str) != ''].reset_index(drop=True)
         messages = messages_df['message'].values
         sentiments = messages_df['sentiment'].values
